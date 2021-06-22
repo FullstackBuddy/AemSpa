@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import {MapTo} from '@adobe/aem-react-editable-components';
-import ./Home/Home.css
 
 const HomeEditConfig = {
 
